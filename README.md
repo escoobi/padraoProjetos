@@ -1,2 +1,2 @@
 # Padrão Projetos
-Abortados os padrões: Singleton, Strategy e Facade.
+Utilizado os padrões: Singleton, Strategy e Facade.
